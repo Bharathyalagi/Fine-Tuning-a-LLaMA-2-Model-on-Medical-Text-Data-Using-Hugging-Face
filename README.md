@@ -42,7 +42,7 @@ The model used is [`aboonaji/llama2finetune-v2`](https://huggingface.co/aboonaji
 ---
 ## Optional
 
-If you ever want to reproduce the same environment locally or in another Colab:
+If you want install **Requiremets.txt** and to reproduce the same environment locally or in another Colab, Just run the belwo command in a Terminal or Cell:
 ```
 pip install -r requirements.txt
 ```
