@@ -1,0 +1,23 @@
+# Core deep learning libraries
+torch
+transformers
+datasets
+accelerate
+bitsandbytes
+safetensors
+
+# Parameter-efficient fine-tuning (LoRA)
+peft
+trl
+
+# Tokenization and text processing
+sentencepiece
+tokenizers
+
+# Utility libraries
+tqdm
+numpy
+scikit-learn
+
+# Optional: experiment tracking (disable in Colab if not used)
+wandb
