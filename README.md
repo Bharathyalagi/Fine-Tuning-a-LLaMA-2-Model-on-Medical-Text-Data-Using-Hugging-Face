@@ -75,3 +75,9 @@ Model: Paracetamol (acetaminophen) is a common pain reliever and fever reducer. 
 - This repository only contains the **notebook (.ipynb)** and documentation for reproducibility.
 
 ---
+
+## My Website
+
+- https://bharathyalagi.netlify.app/
+
+# Thank You 
